@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="cAsteroid">
+    <Position X="0.5" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAwAIAAAAggAAAQAEABAAQABAAAAAAAAAABMAAAEAAA=</HashCode>
+      <FileName>cAsteroid.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cButton">
+    <Position X="5.25" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAgAAAAAABAAAAAAAIAAAAAAAAAAAAAg=</HashCode>
+      <FileName>cButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cCollectable">
+    <Position X="7.5" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAiAACAAAQAAAAAAIAEAAAAIAAAAgBAAAAAQAAAEAAA=</HashCode>
+      <FileName>cCollectable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cD3DManager" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQJAAAAEAAAAAAAEAAAAAgAEEAAAgQAAABCAQAAAQw=</HashCode>
+      <FileName>cD3DManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cD3DXFont" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAQCAACEAAQCAAAAAAAAIAAAAIAQ=</HashCode>
+      <FileName>cD3DXFont.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cD3DXSpriteMgr" Collapsed="true">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAAQAAAAAAAAAAAAAAAAAAAAQgAAAQAAAACEoAAAAA=</HashCode>
+      <FileName>cD3DXSpriteMgr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cD3DXTexture" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAEAAAgQAAAAAAIAEAIACAAAAAIAAAAgAAAA=</HashCode>
+      <FileName>cD3DXTexture.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cScore">
+    <Position X="10.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAIAAAIAAAEAACAAAhEAAAAgAA=</HashCode>
+      <FileName>cScore.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cPlayer">
+    <Position X="2.75" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AIAAgACAAkAgAggAAAAYAEAgABAAiAGAIAAAAABEBgg=</HashCode>
+      <FileName>cPlayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cScoreboard">
+    <Position X="12.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAACAAAAQAAAAAEAAAAAAAACAAAAAAAAAADA=</HashCode>
+      <FileName>cScoreboard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cSprite" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wBAGACggIIBEAiAAEBIBCACAgAADAIgiAAQIDIAGECA=</HashCode>
+      <FileName>cSprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cXAudio" Collapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAgoAAAABIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>cXAudio.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="eDirection" Collapsed="true">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAICAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>GameConstants.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ScreenManager" Collapsed="true">
+    <Position X="13.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAggAAAAAAAAAAAAAAAAAAAAACIAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>GameConstants.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

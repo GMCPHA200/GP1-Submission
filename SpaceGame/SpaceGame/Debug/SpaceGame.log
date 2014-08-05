@@ -1,0 +1,19 @@
+﻿Build started 05/08/2014 09:32:31.
+     1>Project "E:\Documents\Visual Studio 2010\Projects\SpaceGame\SpaceGame\SpaceGame.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\SpaceGame.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         SpaceGame.vcxproj -> E:\Documents\Visual Studio 2010\Projects\SpaceGame\Debug\SpaceGame.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\SpaceGame.unsuccessfulbuild".
+         Touching "Debug\SpaceGame.lastbuildstate".
+     1>Done Building Project "E:\Documents\Visual Studio 2010\Projects\SpaceGame\SpaceGame\SpaceGame.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.03

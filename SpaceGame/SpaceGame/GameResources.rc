@@ -1,0 +1,12 @@
+#include "GameResources.h"
+
+// --------------------------------------
+// Icons
+// --------------------------------------
+IDI_MyWindowIcon	ICON	"Images\\rocket.ico"
+
+// --------------------------------------
+// Fonts
+// --------------------------------------
+IDF_MyFont			FONT	"Fonts\\Cinegbin.ttf"
+
